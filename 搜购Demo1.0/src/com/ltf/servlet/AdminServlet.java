@@ -17,7 +17,7 @@ import com.ltf.service.imp.AdminServiceImp;
 import com.ltf.vo.AdminBean;
 
 public class AdminServlet extends HttpServlet {
-
+ 
 	AdminService adminService=new AdminServiceImp();
 	public AdminServlet() {
 		super();

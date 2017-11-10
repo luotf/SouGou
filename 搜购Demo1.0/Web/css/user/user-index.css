@@ -1,0 +1,22 @@
+.main{margin-top: 60px;}
+.main .menu{width: 200px;height: 500px;background: rgba(241, 207, 120, 0.68);border:1px solid rgb(241, 207, 120)}
+.main .menu img{width: 120px;height: 120px;margin-left: 40px;margin-top: 10px;}
+.main .menu ul{margin-top: 20px;}
+.main .menu ul li a{display: block;width: 200px;height: 40px;text-align: center;font-size:14px;line-height: 40px;background: url("../../images/icon/zheng.png") no-repeat 50px center;background-size: 8px 8px; }
+.main .menu ul li a:hover{background: rgb(241, 207, 120) url("../../images/icon/zheng.png") no-repeat 50px center;background-size: 8px 8px;color:#fff;}
+
+.main .content{width: 996px;height: 500px;background: white;border: 1px solid #c4d5e0;border-left: none;}
+
+.main .content .message img{width: 100px;height: 100px;padding-left: 20px;}
+.main .content .message{padding-left: 20px;}
+.main .content .message p{margin-top: 20px;}
+.main .content .message p{margin-top: 20px;}
+.main .content .message p .text{padding-left: 70px;color: #999999;}
+.main .content .message p .input{height: 25px;}
+.main .content .message p .sex{margin-left: 20px;}
+.main .content #citySelect{float: left;}
+.main .content .message p .save{display: block;width: 80px;height: 30px;background: #f9ff66;text-align: center;line-height: 30px;border-radius: 5px;font-size: 14px;}
+.main .content .message p .save:hover{background: #fff75e;}
+.active{
+	
+}

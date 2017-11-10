@@ -1,0 +1,32 @@
+video{
+    clear: both;
+    display: block;
+    margin: 0 auto;
+}
+.main{
+    width: 1180px;
+    height: auto;
+    padding-bottom: 30px;
+    border: 10px solid  #f1cf78;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.title{
+    width: 300px;
+    height: 86px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 26px;
+}
+.title img{
+    float: left;
+    width: 86px;
+    height: 80px;
+}
+.title h2{
+    float: left;
+    line-height: 86px;
+}
+.footer{
+    margin-top: 30px;
+}

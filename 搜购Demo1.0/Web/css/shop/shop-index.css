@@ -1,0 +1,65 @@
+.main .shop-logo{margin-top: 55px;}
+.main .shop-logo img{width: 86px;height: 86px;display:block;float:left;}
+.main .shop-logo h2{float: left;font-size: 20px;padding: 30px 20px;}
+.main .shop-message{clear:both;width: 100%;height: 30px;background-color: #ffff83;}
+.main .shop-message>p{float: left;line-height: 30px;}
+.main .shop-message>p a{padding: 5px 20px;color:#fff;background-color: #7974ff;border-radius: 5px;}
+.main .shop-message>p a:hover{background-color: #7974ff;}
+.main .shop-message .colle {float: right;
+}
+.main .shop-message .colle a:hover{
+	color: #000;
+    background: #fff576;
+    transition: 0.5s all ease;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    -o-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+     text-decoration: none;
+     }
+.logo{margin: 5px 0;}
+.logo img{width: 1200px;height: 150px;}
+.goods-show .goods-recommend{width: 190px;padding-bottom: 20px;}
+.goods-show .goods-recommend h3{width:202px;height: 30px;font-size:18px;line-height:30px;background-color: #ffff83;}
+.goods-show .goods-recommend .re-goods img{width: 180px;height: 200px;padding: 0px 10px;border: 1px solid #e0e0e0;}
+.goods-show .goods-recommend .re-goods p{text-align:center;margin-left: 10px;margin-top: 10px;color: red;}
+.goods-show .goods-recommend .re-goods p a{color: #585fff;}
+.goods-show .goods-recommend .re-goods p a:hover{color: red;text-decoration: underline;}
+.shop{width: 980px;height: 300px;margin-left: 18px;}
+.shop img{width:450px;height: 300px; float: left;}
+.message{width: 490px;height: 220px;font-size: 18px;padding-top: 80px;background-color:#fff576;padding-left: 40px; }
+.message p{line-height: 30px;font-size: 19px;text-align: left;	}
+
+.goods-show .all-goods{width: 980px;margin-top: 10px;}
+.goods-show .all-goods h3{width:980px;height: 30px;font-size:18px;line-height:30px;background-color: #ffff83;margin-left: 18px;}
+.up_normal_list {margin-left: 46px;width: 138px;height: 270px;margin-bottom: 20px; margin-right: 10px;border:1px solid #eee;}
+.up_normal_list:hover{transition: 0.5s all ease; -webkit-transition: 0.5s all ease; -moz-transition: 0.5s all ease; -o-transition: 0.5s all ease; -ms-transition: 0.5s all ease; border:1px solid #ffd003; background:rgba(45, 224, 41, 0.12);}
+.up_normal_list img {width:140px;height:155px;display: block;margin: 0 auto;}
+.up_normal_list p {text-align: center;color: red;line-height: 26px;}
+.up_normal_list i{ display: block; width:100%; height: 20px; font-style: normal;font-style: normal;
+color: #a48724;
+font-size: 13px;
+text-align: center; }
+
+.showMap{
+	background:#7974ff;
+	padding:4px 7px;
+	margin-left:15px;
+	color:#fff;
+	font-size: 16px;
+}
+.login-header a:hover{
+	color: #000;
+    background: #fff;
+    transition: 0.5s all ease;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    -o-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+        text-decoration: none;
+}
+.up_normal_list .location { display: block;font-size: 12px; background: url("../../images/icon/map.png") no-repeat 2px center;padding-left: 18px;padding-top: 5px;padding-top: 5px;
+color: #908a8a;}
+.com{width: 480px;height: auto;border: 1px solid #cccccc;margin-left: 16px;margin-top: 10px;padding-bottom: 10px;}
+.com h3{width:480px;height: 30px;font-size:18px;line-height:30px;background-color: #ffff83;}
+.com .change{margin-left: 10px;    margin-top: 5px;}

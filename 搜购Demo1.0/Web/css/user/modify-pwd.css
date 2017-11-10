@@ -1,0 +1,212 @@
+.main .menu {
+	width: 200px;
+	height: 500px;
+	background: rgba(241, 207, 120, 0.68);
+	border: 1px solid rgb(241, 207, 120)
+}
+
+.main .menu img {
+	width: 120px;
+	height: 120px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+.main .menu ul {
+	margin-top: 20px;
+}
+
+.main .menu ul li a {
+	display: block;
+	width: 200px;
+	height: 40px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 40px;
+	background: url("../../images/icon/zheng.png") no-repeat 50px center;
+	background-size: 8px 8px;
+}
+
+.main .menu ul li a:hover {
+	background: rgb(241, 207, 120) url("../../images/icon/zheng.png")
+		no-repeat 50px center;
+	background-size: 8px 8px;
+	color: white;
+}
+
+.main .content {
+	width: 976px;
+	height: 500px;
+	background: white;
+	border: 1px solid #c4d5e0;
+	border-left: none;
+	padding-left: 20px;
+}
+
+.main .content .old-pwd {
+	width: 600px;
+	height: 80px;
+	border: 2px solid #e0e0e0;
+	margin-bottom: 40px;
+}
+
+.main .content .old-pwd:hover {
+	border: 2px solid #76b8ff;
+}
+
+.main .content h2 {
+	font-size: 20px;
+	margin: 20px 0;
+	font-weight: normal;
+}
+
+.main .content .old-pwd p {
+	float: left;
+	font-size: 20px;
+	padding-left: 20px;
+	margin-top: 20px;
+}
+
+.main .content .old-pwd .modify {
+	display: block;
+	width: 120px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 16px;
+	background: #f19612;
+	color: white;
+	border-radius: 3px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+.main .content .old-pwd .modify:hover {
+	background: #ffd12b;
+}
+
+.main .content .box {
+	width: 400px;
+	height: 300px;
+	background: #F5F5F5;
+	padding-top: 50px;
+	padding-left: 30px;
+	margin-left: 290px;
+	margin-top: 75px;
+}
+
+.main .content .box p {
+	margin-top: 20px;
+}
+
+.main .content .box p a {
+	display: block;
+	width: 80px;
+	height: 30px;
+	background: #f9ff66;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 5px;
+	font-size: 14px;
+	margin-left: 140px;
+}
+
+.main .content .box p a:hover {
+	background: #fff75e;
+}
+
+.main .content .pwd {
+	height: 50px;
+	border-bottom: 1px dashed #e6e6e6;
+	margin-top: 50px;
+}
+
+.main .content .pwd p {
+	float: left;
+	margin-left: 50px;
+}
+
+.main .content .pwd .status .status-img {
+	display: block;
+	background: url("../../images/icon/gou.png") no-repeat 0 center;
+	width: 21px;
+	height: 40px;
+}
+
+.main .content .pwd .status {
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.main .content .pwd .name {
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.main .content .pwd .des {
+	width: 400px;
+	height: 50px;
+}
+
+.main .content .pwd .pa {
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.main .content .pwd .pa a {
+	color: #4a57ff;
+}
+
+.main .content .pwd p #email {
+	background: url("../../images/icon/wen.png") no-repeat 0 center;
+}
+
+.main .order .ways {
+	margin: 10px 10px;
+}
+
+.main .order table {
+	margin-top: 20px;
+}
+
+.main .order table tr td {
+	height: 40px;
+	text-align: center;
+}
+
+.main .order table .title {
+	background: #f5dea3;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.main .collection .coll-goods {
+	width: 160px;
+	height: 260px;
+	margin-right: 20px;
+	float: left;
+}
+
+.main .collection .coll-goods img {
+	width: 160px;
+	height: 160px;
+}
+
+.main .collection .coll-goods .btn a {
+	display: block;
+	float: left;
+	width: 70px;
+	height: 30px;
+	background: #fff564;
+	text-align: center;
+	line-height: 30px;
+	margin-right: 10px;
+	margin-top: 10px;
+}

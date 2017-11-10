@@ -1,0 +1,25 @@
+body{min-width: 1000px;color: #474747;}
+.way{width: 98%;height: 40px;background: #F5F5F5;}
+.way p{margin-left: 5px;line-height: 40px;}
+.show-shop table{width: 98%;margin-left: 5px;margin-top: 20px;}
+.show-shop table img{width: 40px;height: 40px;text-align: center;}
+.show-shop table .opera{text-align: center;}
+.show-shop table .opera a{padding: 6px 10px;
+    background: rgb(128, 167, 255);
+    border-radius: 5px;
+    color: white;
+    }
+    .show-shop table .opera a:hover{
+     background: rgba(158, 158, 158, 0.19);
+      color: red;
+    }
+.show-shop table td{padding: 5px 0;}
+.show-shop table tr:hover{background:rgba(3, 169, 244, 0.13);}
+.show-shop table .title{height: 40px;background: rgba(0, 188, 212, 0.64);color: white;
+    font-size: 15px;}
+.show-shop table .title:hover{height: 40px;background: rgba(0, 188, 212, 0.64);color: white;
+    font-size: 15px;}
+.show-shop table .choose{text-align: center;}
+.search{width: 98%;margin-left: 5px;margin-top: 20px;}
+.search input{width: 300px;height: 30px;border-radius: 15px;border: 1px solid #75aeff;outline: none;text-indent: 10px;}
+.search a{padding: 5px 15px;background: #e0e0e0;border-radius: 3px;}

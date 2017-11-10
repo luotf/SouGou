@@ -1,0 +1,6 @@
+<Context>
+  	<Resource name="TestJNDI" type="javax.sql.DataSource" auth="Container"
+  		driverClassName="com.mysql.jdbc.Driver"
+  	url="jdbc:mysql://localhost:3306/sougou"
+  		username="root" password="3306" maxActive="200" maxIdle="200" maxWait="60000" />
+</Context>

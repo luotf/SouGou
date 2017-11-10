@@ -1,0 +1,25 @@
+
+.shop-introduce{    width: 99%;height:100px;border: 1px solid #cccccc;box-shadow: 0 0 3px black;padding-top: 10px;margin: 2px 2px;}
+.shop-introduce:hover{border: 1px solid #4aa3ff;}
+.shop-introduce img{float: left;padding-left: 20px;padding-top: 5px;width: 80px;height: 80px;}
+.shop-introduce .text{float: left;padding-left: 20px;}
+.shop-introduce .dynamic{float: right;width: 50%;height:100px;border-left: 1px solid #4aa3ff;padding-left: 20px;}
+.shop-introduce .dynamic ul li a{padding-left:25px;background: url("../../images/icon/dy.png") no-repeat 0 center}
+
+.situation{margin-top: 30px;margin-left: 1%;}
+.situation .shop-data{width: 47%;float: left}
+.situation .shop-data h2{width: 100%;height:40px;background-color: rgb(134, 205, 232);font-size: 20px;line-height: 40px;}
+.situation .shop-data p{height: 40px;border: 1px solid #ccc;border-top: hidden}
+.situation .shop-data p a{padding-left: 5px;display: block;height: 40px;line-height: 40px;}
+.situation .shop-data p .right{padding-right: 20px;}
+.situation .near-shop{float: left;margin-left: 1%;width: 51%;border: 1px solid #cccccc;}
+.situation .near-shop h2{width: 100%;height:40px;background-color:rgb(134, 205, 232);font-size: 20px;line-height: 40px;}
+.situation .near-shop .near-shop-show img{border-radius: 100%;width: 100px;height: 100px;}
+.situation .near-shop .near-shop-show{margin: 22px 20px;float: left;}
+.situation .near-shop .near-shop-show p{text-align: center;}
+.situation-near-shop-p-add-class{background-color: #f5f5f5;}
+
+
+.goods-charts{width: 43%;height: 400px;margin-top: 20px;margin-right: 10%}
+#main2{width: 35%;}
+

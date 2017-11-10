@@ -1,0 +1,22 @@
+
+.head{width: 100%;height: 60px;margin-top: 45px;}
+.head img{float: left;padding-left: 10%;}
+.head h2{float: left;line-height: 80px;font-size: 26px;}
+
+.main .title{clear:both;width: 100%;border-bottom: 3px solid #e0e0e0;text-align: center;font-size: 26px;font-family: 'Î¢ÈíÑÅºÚ';font-weight: bold;}
+.main .title p{width: 360px;height: 40px;margin:-2px auto;border-bottom: 3px solid red;}
+.register{width: 360px;height: auto;margin: 30px auto;}
+.register p{margin-bottom: 20px;}
+.register p input{border:none;border-bottom: 2px solid #e0e0e0;outline: none;width: 250px;height: 30px;margin-left: 10px;text-indent: 10px;}
+.register p .jianjie{width: 250px;height: 60px;border: 1px solid #e0e0e0;}
+.register #file1{display: none;}
+.register p label{padding: 5px 15px;background: #fff38b;}
+.register p label:hover{cursor: pointer;}
+.register .add-img #add1{width: 150px;height: 150px;border: hidden;display: block;margin-left:63px;}
+.register .submit{background: none;border: none;outline: none;padding: 10px 150px;background: #98c0ff;margin: 20px 0px;font-size: 16px;border-radius: 5px;font-weight: bold}
+.register .submit:hover{cursor: pointer;background: #83adff;}
+
+
+
+
+

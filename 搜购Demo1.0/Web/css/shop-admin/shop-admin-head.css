@@ -1,0 +1,14 @@
+*{background-color:rgb(134, 205, 232);margin: 0;padding: 0;font-family: '微软雅黑';}
+body{min-width: 1200px;}
+.logo{height:100px;float: left;}
+.logo img{float: left;}
+.logo h3{line-height: 45px;float: left;color:#474747;}
+.menu{position: absolute;right: 30px;bottom: 0;}
+.menu ul li{list-style: none;float:left;}
+.menu ul li a{display:block;text-decoration: none;height:45px;padding: 0 20px;line-height:45px;border-left: 2px solid #ffe695;color:#474747;transition: all 0.3s ease;border-radius: 5px;}
+.menu ul li a:hover{background-color:white;border-left: 2px solid #EF9750;border-radius:0 5px;}
+.menu ul li span{padding-left: 30px;height: 45px;line-height: 45px;}
+.menu ul li .menu-a1{background: url("../../images/icon/index2.png") no-repeat 3px center}
+.menu ul li .menu-a2{background: url("../../images/icon/index.png") no-repeat 3px center}
+.menu ul li .menu-a3{background: url("../../images/icon/person.png") no-repeat 3px center}
+.menu ul li .menu-a4{background: url("../../images/icon/exit.png") no-repeat 3px center}

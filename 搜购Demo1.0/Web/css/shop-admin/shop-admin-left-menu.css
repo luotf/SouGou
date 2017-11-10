@@ -1,0 +1,10 @@
+*{width: 200px;margin: 0;padding: 0;background-color:rgba(71, 71, 71, 0.12);overflow: hidden;}
+a{text-decoration: none}
+.menu .first-menu{width:144px;background-color:rgb(134, 205, 232);border: 1px solid rgba(255, 255, 255, 0.61);
+    margin: 0px auto;color: #474747;border-bottom:none;padding-left: 46px;font-size: 18px;line-height: 40px;}
+.menu .first-menu:hover{cursor: pointer;}
+.hasbg{background: #EFBB69 url("../../images/icon/add.png") no-repeat 15px center}
+.nobg{background: #EFBB69 url("../../images/icon/sub.png") no-repeat 15px center}
+.menu ul li a{padding-left: 70px;line-height: 30px;color: #474747;display:block;font-size:14px;width: 130px;background: white url("../images/icon/white-arrow.png") no-repeat 170px center}
+.menu ul li a:hover{background-color:#4aa3ff; color: white;}
+.menu ul{display: none;}

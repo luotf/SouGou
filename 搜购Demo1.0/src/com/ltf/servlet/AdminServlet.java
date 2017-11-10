@@ -27,7 +27,7 @@ public class AdminServlet extends HttpServlet {
 		super.destroy(); 
 		
 	}
-
+  
 	
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
